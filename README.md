@@ -24,7 +24,7 @@ This is a simple React application that displays a digital clock, prayer times, 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/react-prayer-times-app.git
+   git clone https://github.com/GoharShinwari/react-prayer-times-app.git
 2. Change into directory:
    cd react-prayer-times-app
 3. Install the dependencies:
