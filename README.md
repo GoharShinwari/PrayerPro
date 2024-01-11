@@ -32,8 +32,8 @@ This is a simple React application that displays a digital clock, prayer times, 
 
 ## Usage
 1. Start the development server
-   npm start
-2. Open your browser and navigate to http://localhost:3000 to view the app.
+   npm run dev
+2. Open your browser and navigate to http://localhost:5173/ to view the app.
 
 ## Dependencies
 The app uses the following dependencies:
